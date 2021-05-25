@@ -3,7 +3,7 @@
 The event starts at **5:00am PST / 8:00am EST / 1:00pm BST** with cluster login 
 instructions and an introduction to the Fujitsu A64FX.  
 
-<!-- ![Schedule](/schedule.png) -->
+![Schedule](/schedule.png)
           
  * **Registration**: ISC 2021 registration is required to attend this tutorial.  Please [register for ISC 2021 tutorials.](https://www.isc-hpc.com/registration-2021.html)
 
