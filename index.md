@@ -1,4 +1,21 @@
-# Abstract
+# Schedule and Logistics
+
+The event starts at **5:00am PST / 8:00am EST / 1:00pm BST** with cluster login 
+instructions and an introduction to the Fujitsu A64FX.  
+
+<!-- ![Schedule](/schedule.png) -->
+          
+ * **Registration**: ISC 2021 registration is required to attend this tutorial.  Please [register for ISC 2021 tutorials.](https://www.isc-hpc.com/registration-2021.html)
+
+ * **Communication**: A Zoom meeting link will be provided to the registered attendees. *Please make sure that you have updated to the latest version of Zoom.*  [See this help article for instructions](https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version).
+
+ * **System Access**: Login details will be provided on the day of the event. This event is generously supported by the University of Bristol with access to
+the [HPE Apollo 80](https://buy.hpe.com/us/en/servers/apollo-systems/apollo-80-system/apollo-80-system/hpe-apollo-80-system/p/1012970957) partition of [Isambard 2, the largest Arm-based supercomputer in Europe](https://insidehpc.com/2020/02/isambard-2-at-uk-met-office-to-be-largest-arm-supercomputer-in-europe/).  
+
+
+ * **Materials**: Slides, source code, and all other training materials can be browsed and downloaded at [https://gitlab.com/arm-hpc/training/arm-sve-tools/](https://gitlab.com/arm-hpc/training/arm-sve-tools/).  
+
+# Tutorial Abstract
 
 The Scalable Vector Extension (SVE) is the next-generation SIMD instruction set 
 for Armv8-A. SVE does not specify a vector length and it uses predicates to 
@@ -21,32 +38,6 @@ Fujitsu A64FX.  Hands-on exercises will introduce SVE compilers, libraries, and
 tools from Fujitsu, Cray, Arm, and GNU, and show how popular HPC codes can take 
 advantage of SVE.  Don't miss out!  Remote access details will be provided to 
 all registered attendees.
-
-This event is generously supported by the University of Bristol with access to
-the [HPE Apollo 80](https://buy.hpe.com/us/en/servers/apollo-systems/apollo-80-system/apollo-80-system/hpe-apollo-80-system/p/1012970957) partition of [Isambard 2, the largest Arm-based supercomputer in Europe](https://insidehpc.com/2020/02/isambard-2-at-uk-met-office-to-be-largest-arm-supercomputer-in-europe/).  
-
-# Call-in details
-
-Please [register for ISC 2021 tutorials.](https://www.isc-hpc.com/registration-2021.html)
-A Zoom meeting link will be provided to the registered attendees.
-
-*Please make sure that you have updated to the latest version of Zoom.*  
-[See this help article for instructions](https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version).
-
-# Schedule
-
-The event starts at **5:00am PST / 8:00am EST / 1:00pm BST** with cluster login 
-instructions and an introduction to the Fujitsu A64FX.  
-
-![Schedule](/schedule.png)
-          
-# Logistics
-
- * **Communication**: We will use Zoom for the event.  Please make sure that you have updated to the latest version of Zoom.  See https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version for instructions.  
-
- * **System Access**: Login details will be provided on the day of the event.  If you have not registered for the event then you will not be able to access the Fujitsu training cluster.
-
- * **Materials**: Slides, source code, and all other training materials can be browsed and downloaded at [https://gitlab.com/arm-hpc/training/arm-sve-tools/](https://gitlab.com/arm-hpc/training/arm-sve-tools/).  
 
 # Contact
 
