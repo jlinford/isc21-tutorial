@@ -7,7 +7,7 @@ instructions and an introduction to the Fujitsu A64FX.
  
  * **Slides**: [Download slides](/slides.zip)
           
- * **Hands-on Materials**: https://gitlab.com/arm-hpc/training/arm-sve-tools/
+ * **Hands-on Materials**: [Browse on Gitlab](https://gitlab.com/arm-hpc/training/arm-sve-tools/) or [download](https://gitlab.com/arm-hpc/training/arm-sve-tools/-/archive/master/arm-sve-tools-master.tar.gz)
 
  * **Registration**: ISC 2021 registration is required to attend this tutorial.  Please [register for ISC 2021 tutorials.](https://www.isc-hpc.com/registration-2021.html)
 
