@@ -3,6 +3,8 @@
 The event starts at **5:00am PST / 8:00am EST / 1:00pm BST** with cluster login 
 instructions and an introduction to the Fujitsu A64FX.  
 
+This event is generously supported by the **University of Bristol** and **Stony Brook University**.  Thanks!
+
 ![Schedule](/schedule.png)
  
  * **Slides**: [Download slides](/slides.zip)
@@ -13,8 +15,9 @@ instructions and an introduction to the Fujitsu A64FX.
 
  * **Communication**: A Zoom meeting link will be provided to the registered attendees. *Please make sure that you have updated to the latest version of Zoom.*  [See this help article for instructions](https://support.zoom.us/hc/en-us/articles/201362233-Upgrade-update-to-the-latest-version).
 
- * **System Access**: Login details will be provided on the day of the event. This event is generously supported by the University of Bristol with access to
-the [HPE Apollo 80](https://buy.hpe.com/us/en/servers/apollo-systems/apollo-80-system/apollo-80-system/hpe-apollo-80-system/p/1012970957) partition of [Isambard 2, the largest Arm-based supercomputer in Europe](https://insidehpc.com/2020/02/isambard-2-at-uk-met-office-to-be-largest-arm-supercomputer-in-europe/).  
+ * **System Access**: Login details will be provided on the day of the event. We will be using two A64FX systems:
+   * The [HPE Apollo 80](https://buy.hpe.com/us/en/servers/apollo-systems/apollo-80-system/apollo-80-system/hpe-apollo-80-system/p/1012970957) partition of [Isambard 2, the largest Arm-based supercomputer in Europe](https://insidehpc.com/2020/02/isambard-2-at-uk-met-office-to-be-largest-arm-supercomputer-in-europe/).
+   * The [Ookami_ testbed system at Stony Brook University](https://www.stonybrook.edu/commcms/ookami/).
 
 
 # Tutorial Abstract
